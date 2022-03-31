@@ -1,0 +1,1 @@
+migrations : Django 앱의 데이터 구조에 대한 변경 사항인 migration 파일이 저장되는 디렉토리
